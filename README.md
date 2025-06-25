@@ -44,7 +44,7 @@ git clone https://github.com/Project-MONAI/MONAI
 ```
 2. Clone this repository
 ```
-git clone https://github.com/MICHAA4/ConditionalDiffusionModel
+git clone https://github.com/MICHAA4/capstone-conditional-diffusion-mri
 ```
 3. Go to src folder
 4. Execute the .ipynb files!
